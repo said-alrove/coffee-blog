@@ -13,6 +13,8 @@ I also tried to use more utilities in the project thus I created classes like "n
 
 That'd be everything for this project :D.
 
+Update: I've already found out more information about properties like "loading" in the picture element, and I was right (you should put the properties in the img tag only), for more information you can check [this article](https://web.dev/browser-level-image-lazy-loading/).
+
 ## Lighthouse
 ![](readme/lighthouse.png)
 
