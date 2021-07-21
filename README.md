@@ -1,5 +1,5 @@
 # coffee-blog
-Third project from Juan Pablo's course of Web Development.
+The fourth project from Juan Pablo's course of Web Development.
 
 ## Project's preview
 ![](readme/screenshot.png)
