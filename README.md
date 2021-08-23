@@ -34,9 +34,13 @@ This is the fourth project from Juan Pablo's course of [Web Development](https:/
 ## Open Graph
 
 ### Facebook
+
 > **Note:** each page has a different card (image, title, description, etc.).
+
 ![](readme/facebook.png)
 
 ### Twitter
+
 > **Note:** each page has a different card (image, title, description, etc.).
+
 ![](readme/twitter.png)
