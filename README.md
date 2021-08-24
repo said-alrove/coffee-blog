@@ -1,4 +1,4 @@
-# [coffee-blog](https://coffee-blog-119384.netlify.app/)
+# [coffee-blog](https://coffee-blog-e946f9.netlify.app/)
 This is the fourth project from Juan Pablo's course of [Web Development](https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/).
 
 > **Note:** Recently I've started to deploy my sites on [Netlify](https://app.netlify.com/), therefore I changed the domain's link to the new one (in the HTML and the README files), but I kept the screenshots that held the old domain (there's no reason for changing it, the result would've been the same with a different link only).
