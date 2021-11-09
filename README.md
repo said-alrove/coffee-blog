@@ -14,6 +14,9 @@ This is the fourth project from Juan Pablo's course of [Web Development](https:/
     - [Facebook](#facebook)
     - [Twitter](#twitter)
 
+## Preview 
+![](readme/screenshot.png)
+
 ## What I learned
 
 > **Note:** in this project, I continued practicing with the SMACSS methodology (maybe in the next project I'll apply another architecture for building projects with SASS).
